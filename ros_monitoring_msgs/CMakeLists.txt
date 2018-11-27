@@ -10,7 +10,6 @@ project(ros_monitoring_msgs)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   message_generation
-  roscpp
   rospy
   std_msgs
 )
