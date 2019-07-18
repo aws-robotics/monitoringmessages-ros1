@@ -11,7 +11,7 @@ For example, the `MetricData` message corresponds to a [MetricDatum](https://doc
 ### Build status
 * Travis CI:
     * "master" branch [![Build Status](https://travis-ci.org/aws-robotics/monitoringmessages-ros1.svg?branch=master)](https://travis-ci.org/aws-robotics/monitoringmessages-ros1/branches)
-    * "release" branch [![Build Status](https://travis-ci.org/aws-robotics/monitoringmessages-ros1.svg?branch=release-v1)](https://travis-ci.org/aws-robotics/monitoringmessages-ros1/branches)
+    * "release-latest" branch [![Build Status](https://travis-ci.org/aws-robotics/monitoringmessages-ros1.svg?branch=release-latest)](https://travis-ci.org/aws-robotics/monitoringmessages-ros1/branches)
 * ROS build farm:
     * ROS Kinetic @ u16.04 Xenial [![Build Status](http://build.ros.org/job/Kbin_uX64__ros_monitoring_msgs__ubuntu_xenial_amd64__binary/badge/icon)](http://build.ros.org/job/Kbin_uX64__ros_monitoring_msgs__ubuntu_xenial_amd64__binary)
     * ROS Melodic @ u18.04 Bionic [![Build Status](http://build.ros.org/job/Mbin_uB64__ros_monitoring_msgs__ubuntu_bionic_amd64__binary/badge/icon)](http://build.ros.org/job/Mbin_uB64__ros_monitoring_msgs__ubuntu_bionic_amd64__binary)
