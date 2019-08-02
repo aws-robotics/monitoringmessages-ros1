@@ -1,3 +1,6 @@
+### NOTE: This release branch is no longer maintained and is deprecated. Please consider the using the `release-latest` branch for the latest stable sources.
+
+
 # aws-ros-monitoringmessages-ros1
 ROS packages for facilitating the use of AWS cloud services.
 
