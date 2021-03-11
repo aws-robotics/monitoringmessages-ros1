@@ -17,6 +17,15 @@ string UNIT_KILOBYTES_PER_SEC=kilobytes_per_sec
 string UNIT_MEGABYTES_PER_SEC=megabytes_per_sec
 string UNIT_GIGABYTES_PER_SEC=gigabytes_per_sec
 string UNIT_TERABYTES_PER_SEC=terabytes_per_sec
+string UNIT_METER=meter
+string UNIT_RADIAN=radian
+string UNIT_DEGREE=degree
+string UNIT_METER_PER_SEC=meter_per_sec
+string UNIT_RADIAN_PER_SEC=radian_per_sec
+string UNIT_DEGREE_CELCIUS=degree_celcius
+string UNIT_CURRENT=amphere
+string UNIT_VOLTS=volt
+string UNIT_POWER=watt
 string UNIT_NONE=none
 
 # Constant for NA string
