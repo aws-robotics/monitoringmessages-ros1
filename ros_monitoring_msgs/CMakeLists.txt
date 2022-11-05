@@ -24,6 +24,7 @@ add_message_files(
   MetricDimension.msg
   MetricData.msg
   MetricList.msg
+  MetricUnit.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
